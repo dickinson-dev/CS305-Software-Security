@@ -4,7 +4,7 @@ This repository contains my portfolio artifact and reflection for SNHU's CS 305 
 
 ## Portfolio Artifact
 
-- [Artemis Financial Vulnerability Assessment Report](CS-305-Project-One-Dickinson.docx) — Manual security review, OWASP Dependency-Check findings, and a mitigation plan for the Artemis Financial application.
+- [Artemis Financial Vulnerability Assessment Report](CS 305 Project One Dickinson.docx) — Manual security review, OWASP Dependency-Check findings, and a mitigation plan for the Artemis Financial application.
 
 ## Reflection
 
